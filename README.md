@@ -1,4 +1,4 @@
-- hi, i'm @renatica (she/her);
+- hi, i'm @renatica (she/her), Renata Svetlitskaya;
 - slaving away at frontend mines, typescript user;
 - rather proficient in js (mostly nextjs, as it is part of my main skillset), go, rust, and python;
 - less proficient in java and c++, but i'm still trying to find ideas for pet projects to make;
