@@ -3,4 +3,5 @@
 - rather proficient in js (mostly nextjs, as it is part of my main skillset), go, rust, and python;
 - less proficient in java and c++, but i'm still trying to find ideas for pet projects to make;
 - trying to learn mojo rn. not for ai purposes, i generally think it's cool;
+- adoring fp langs: looking for pet projects in ocaml and haskell, too;
 - open source user but not open source contributor (yet)
